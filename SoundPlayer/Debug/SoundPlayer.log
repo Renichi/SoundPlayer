@@ -1,0 +1,20 @@
+﻿2015/04/06 12:50:11 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\廉一\Desktop\SoundPlayer\SoundPlayer\SoundPlayer.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\SoundPlayer.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         すべての出力が最新のものです。
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         すべての出力が最新のものです。
+       Manifest:
+         すべての出力が最新のものです。
+       FinalizeBuildStatus:
+         ファイル "Debug\SoundPlayer.unsuccessfulbuild" を削除しています。
+         "Debug\SoundPlayer.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\廉一\Desktop\SoundPlayer\SoundPlayer\SoundPlayer.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:00.06
